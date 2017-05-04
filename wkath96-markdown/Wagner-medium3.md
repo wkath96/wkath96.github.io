@@ -25,7 +25,7 @@ Unfortunately, much of the data says otherwise.
 
 **It starts with the brain.** Several recent [neuroscientific studies](http://www.scilearn.com/blog/ten-facts-about-how-poverty-impacts-education) have documented the links between poverty and poor education. The brain is more "plastic," or malleable, when we are young. The value of nurturing our children's' brains during these earliest stages of life therefore _cannot_ be overstated.
 
-A simple example is that children from poor households have less verbal exposure. [A famous 1995 study](http://literacy.rice.edu/thirty-million-word-gapshows) that children from poor households hear 32 million words than those from wealthy homes; this is known as the "thirty million word gap." A dearth of language inhibits the potential of a young brain, eager for expansion.
+A simple example is that children from poor households have less verbal exposure. [A famous 1995 study](http://literacy.rice.edu/thirty-million-word-gapshows) that children from poor households hear 32 million __fewer__ words than those from wealthy homes; this is known as the "thirty million word gap." A dearth of language inhibits the potential of a young brain, eager for expansion.
 
 **It sets the stage for their future.**
 In a world increasingly ruled by technology, education is only becoming more vital for success. An estimated [85% of current jobs and 90% of new jobs](https://www.dosomething.org/us/facts/11-facts-about-education-america) require a college or post-secondary education.
